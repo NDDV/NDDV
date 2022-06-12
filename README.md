@@ -10,7 +10,7 @@
 
 **Languages and tools**
 
-<img src="http://store-images.s-microsoft.com/image/apps.17873.13648462386301114.3b479b74-ea3a-46fc-805f-fa37ceb5c94d.5c120fd9-8101-497f-9b14-f6e18aae5492" width="68" height="68" > <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" > <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="48" height="48" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGphnnmzzZk0ZWlG8uwxSDHEWSYMrbLfKb7w&usqp=CAU" width="68" height="68" > <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width="68" height="68" >
+<img src="http://store-images.s-microsoft.com/image/apps.17873.13648462386301114.3b479b74-ea3a-46fc-805f-fa37ceb5c94d.5c120fd9-8101-497f-9b14-f6e18aae5492" width="68" height="68" > <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width="68" height="68" > <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" > <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="48" height="48" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGphnnmzzZk0ZWlG8uwxSDHEWSYMrbLfKb7w&usqp=CAU" width="68" height="68" >
 
 > You lear some new every day :sparkling_heart:
 
