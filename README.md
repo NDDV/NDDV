@@ -4,7 +4,7 @@
 
 - 👦 I’m an alumnus, study in Computer Science in college
 - 🌱 I’m currently learning in AI and DA so my main skill is all basic with Data Analyst, Machine learning and Deep learning
-- 🤔 I’m not good at coding but on the way learning every new
+- 🤔 I’m trying my best on coding
 - 💨 I still learn new everyday. So hope in the future and i can meet up with awsome people who can help me on the way to be a good CSer
 - 💬 You can contact me to [facebook](https://www.facebook.com/NDDV.3009/), [linkedin](https://www.linkedin.com/in/nguyen-duy-duong-vu-1993641a7/)
 
